@@ -1,0 +1,10 @@
+Como install o opencode:
+
+1- \curl -sSL https://get.rvm.io | bash
+2- rvm pkg install openssl
+3- rvm install 2.3.3 --with-openssl-dir=$rvm_path/usr
+4-gem install faraday -v 1.0.1
+5-gem install launchy -v 2.4.3
+6-gem install nokogiri -v 1.10.10
+7-brew install shared-mime-info
+8-gem install opencode_theme
