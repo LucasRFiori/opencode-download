@@ -1,4 +1,4 @@
-Como install o opencode:
+Como instalar o opencode (MAC OS):
 
 1 - \curl -sSL https://get.rvm.io | bash
 2 - rvm pkg install openssl
